@@ -5,6 +5,7 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
+    "sass": "^1.62.1",
     "vitepress": "^1.0.0-beta.1",
     "vue": "^3.3.4"
   }

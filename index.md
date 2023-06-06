@@ -1,25 +1,50 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
+layout: doc
 title: Home
-
-hero:
-  name: 'Mohamed Shrief'
-  text: 'Jr Web Developer'
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+aside: false
 ---
+
+<script setup>
+  import IndexHeader from './components/IndexHeader.vue';
+</script>
+
+<IndexHeader />
+
+## Current skills
+
+- JavaScript & TypeScript
+- NodeJS and Express.JS
+- VueJS + (Pinia and vue-router)
+- Used Postgres, MySQL and MongoDB.
+- CSS & SCSS.
+- Docker's basics
+
+### Working to add:
+
+- Git Workflow.
+- solid ground on Algorithms and Data Structures.
+- Solid ground on OOP & design patterns.
+- Unit/Component/E2E Testing using Cypress and Jest.
+- Network Basics, in-depth knowledge about HTTP(s) and TCP/IP basics.
+- HTTP RESTFUL (especially interceptors).
+- Deep dive in Databases (PostgreSQL & Redis).
+- WebSockets
+- Nginx & API gateway
+- Using SSR in frontend.
+- Basic knowledge about Architecture and Design
+- Docker
+
+## Looking to be
+
+- Consistent.
+- Doing priorities first.
+- Dedicated to deadlines.
+- Very flexible but very clear.
+- Putting no cognitive load on users.
+- Developing and Deploying with security always in mind.
+
+## I respect having
+
+- An ethical environment
+- Anti toxic positivity/negativity people
+- Meaningful work
