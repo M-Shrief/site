@@ -12,10 +12,10 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: 'Home',
-    // nav: [
-    //   { text: 'Projects', link: '/projects' },
-    //   { text: 'Learning Journey', link: '/learning' },
-    // ],
+    nav: [
+      { text: 'Mail: m.shrief.dev@proton.me', link: '' },
+      { text: 'Phone: +201025331595', link: '' },
+    ],
     sidebar: [
       {
         text: 'Projects',
