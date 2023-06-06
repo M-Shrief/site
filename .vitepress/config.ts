@@ -7,7 +7,7 @@ export default defineConfig({
     'Junior Web Developer, using Vuejs for the frontend, and Nodejs & Express.js on the backend. Worked with MongoDB and Postgress',
   lang: 'en-US',
   appearance: 'dark',
-  // base: '/base/', // base url for deployment
+  base: '/site/', // base url for deployment
   lastUpdated: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
