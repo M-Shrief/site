@@ -6,9 +6,25 @@ aside: false
 
 <script setup>
   import IndexHeader from './components/IndexHeader.vue';
+  import VPButton from 'vitepress/dist/client/theme-default/components/VPButton.vue';
+
+  function copyToClipboard() {
+  // Get the text field
+  var copyText = document.getElementById("mail");
+
+  // Select the text field
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
+
+  // Copy the text inside the text field
+  navigator.clipboard.writeText(copyText.value);
+  copyText.textContent = 'Copied mail to Clipboard'
+  }
 </script>
 
 <IndexHeader />
+
+<VPButton tag="a" size="medium" theme="brand" text="Resume" href="https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/mohamed-resume.pdf"/>
 
 ## Current skills
 
