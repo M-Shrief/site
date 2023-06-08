@@ -33,6 +33,7 @@ Built a single page application (SPA) that consumes a REST API, tech stack that
 was used:
 
 - TypeScript
+
 - Backend,
   [check repo](https://github.com/M-Shrief/Adeeb_ExpressTS 'github repo')
   - Nodejs, particularly using Express.js
@@ -41,13 +42,15 @@ was used:
   - Centralized error handling
   - ...and more.
 - Frontend, [check repo](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repo')
+
   - Vuejs
   - Vite
   - Pinia
   - Vue-router
   - Vee-validate
   - ...and more.
-- Currently working to:
+
+- **Currently working to:**
   - Use Quasar framework to make the frontend to render on the server (SSR),
     [check repo](https://github.com/M-Shrief/Adeeb_Quasar_SSR 'github repo').
   - Migrate the backend to use Postgres and TypeORM,
