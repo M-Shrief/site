@@ -3,6 +3,9 @@ layout: doc
 title: Learning Journey
 head:
   - - meta
+    - name: author
+    - content: Mohamed Shrief
+  - - meta
     - name: description
       content: Learning journey for web development on the Frontend and Backend.
   - - meta

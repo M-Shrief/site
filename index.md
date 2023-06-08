@@ -3,8 +3,11 @@ layout: doc
 title: Home
 head:
   - - meta
+    - name: author
+    - content: Mohamed Shrief
+  - - meta
     - name: description
-      content: Mohamed Shrief, Junior Backend & Frontend Developer for the Web.
+      content: Junior Backend & Frontend Developer for the Web.
   - - meta
     - name: keywords
       content:
