@@ -9,6 +9,7 @@ export default defineConfig({
   appearance: 'dark',
   base: '/site/', // base url for deployment
   lastUpdated: true,
+  // mpa: true, // multi-page application
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: 'Home',
@@ -23,21 +24,6 @@ export default defineConfig({
       },
       { text: 'Learning Journey', link: '/learning' },
     ],
-    // sidebar: {
-    //   '/': [
-    //     {
-    //       text: 'Personal Skills',
-    //       // collapsed: true,
-    //       link: '/',
-    //       items: [
-    //       ],
-    //     },
-    //   ],
-    // },
-    // search: {
-    //   provider: 'local',
-    // },
-
     socialLinks: [{ icon: 'github', link: 'https://github.com/m-shrief' }],
     footer: {
       copyright: 'Copyright © 2023-present Mohamed Shrief',

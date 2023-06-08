@@ -1,8 +1,16 @@
 ---
 layout: doc
 title: Projects
+head:
+  - - meta
+    - name: description
+      content: Current and past projects, for the Frontend and Backend.
+  - - meta
+    - name: keywords
+      content:
+        Web Development Backend Frontend JavaScript TypeScript Vuejs Vite Nodejs
+        Express.js
 aside: false
-prev: true
 ---
 
 # Projects

@@ -1,6 +1,15 @@
 ---
 layout: doc
 title: Home
+head:
+  - - meta
+    - name: description
+      content: Mohamed Shrief, Junior Backend & Frontend Developer for the Web.
+  - - meta
+    - name: keywords
+      content:
+        Web Development Backend Frontend JavaScript TypeScript Vuejs Vite Nodejs
+        Express.js
 aside: false
 ---
 

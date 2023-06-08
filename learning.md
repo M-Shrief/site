@@ -1,6 +1,15 @@
 ---
 layout: doc
 title: Learning Journey
+head:
+  - - meta
+    - name: description
+      content: Learning journey for web development on the Frontend and Backend.
+  - - meta
+    - name: keywords
+      content:
+        Courses, Databases, DevOps, Data Structures, Algorithms, Network, OOP,
+        Design patterns.
 aside: false
 ---
 
