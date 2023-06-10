@@ -3,9 +3,6 @@
     <span>Mohamed Shrief</span>
   </h1>
   <h1 class="title">Junior Frontend & Backend Developer</h1>
-
-  <p class="tagline">I'm always longing to work with an experienced team to learn
-    from and add to them.</p>
 </template>
 
 

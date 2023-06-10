@@ -23,11 +23,11 @@ aside: false
 
 <IndexHeader />
 
-<VPButton tag="a" size="medium" theme="brand" text="Resume" href="https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/mohamed-resume.pdf"/>
+<VPButton tag="a" size="medium" theme="brand" text="Resume" href="https://raw.githubusercontent.com/M-Shrief/M-Shrief/main/mohamed-resume.pdf" id="resume"/>
 
 ## Current skills
 
-![An image](./public/skills.jpg)
+<!-- ![An image](./public/skills.jpg) -->
 
 - JavaScript & TypeScript
 - NodeJS and Express.JS
@@ -65,3 +65,9 @@ aside: false
 - An ethical environment
 - Anti toxic positivity/negativity people
 - Meaningful work
+
+<style>
+  #resume {
+    margin-top: 3rem;
+  }
+</style>
