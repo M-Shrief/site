@@ -35,8 +35,8 @@
         <p>Give partners & special customers to sign up, to review their past
           orders, and make bulk orders fast and easy. </p>
         <video controls preload="metadata" playsinline
-          poster="../adeeb_overview/poster.png">
-          <source src="../adeeb_overview/partner.mp4" type="video/mp4" />
+          poster="../public/adeeb_overview/poster.png">
+          <source src="../public/adeeb_overview/partner.mp4" type="video/mp4" />
         </video>
       </div>
     </div>
