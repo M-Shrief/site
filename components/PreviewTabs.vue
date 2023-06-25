@@ -15,9 +15,10 @@
     </div>
     <div class="tab">
       <input type="radio" id="tab-2" name="tab-group">
-      <label for="tab-2">Normal Guest</label>
+      <label for="tab-2">Guest</label>
       <div class="content">
-        <p>Customizing our selected prints' colors and font, and checking some
+        <p>As a normal Guest/Customer, we start customizing our selected prints'
+          colors and font, and checking some
           random pieces.</p>
         <p>After that we enter our information to submit the order, and follow the
           process on history page.
@@ -54,9 +55,7 @@
 video {
   max-width: 65rem;
   width: 100%;
-  max-height: 35rem;
   height: 100%;
-  // margin: 1rem auto;
 }
 
 .tab {
@@ -81,11 +80,12 @@ video {
   position: absolute;
   top: 1.5rem;
   left: 0;
+  border-color: var(--vp-c-white);
+  color: var(--vp-c-white);
   background: #161618;
   right: 0;
   bottom: 0;
   padding: 0 1rem;
-  border: 1px solid #ccc;
   overflow: hidden;
 }
 
