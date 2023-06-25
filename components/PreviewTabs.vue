@@ -7,8 +7,9 @@
         <p>Browsing the main page's, while choosing some prints, then we navigate
           to Poem & Poet page. And now, we've some prints ready to customize for
           our order.</p>
-        <video controls preload="metadata" playsinline>
-          <source src="../adeeb_overview/main.mp4" type="video/mp4" />
+        <video controls preload="metadata" playsinline
+          poster="../public/adeeb_overview/poster.png">
+          <source src="../public/adeeb_overview/main.mp4" type="video/mp4" />
         </video>
       </div>
     </div>
@@ -21,8 +22,9 @@
         <p>After that we enter our information to submit the order, and follow the
           process on history page.
         </p>
-        <video controls preload="metadata" playsinline>
-          <source src="../adeeb_overview/guest.mp4" type="video/mp4" />
+        <video controls preload="metadata" playsinline
+          poster="../public/adeeb_overview/poster.png">
+          <source src="../public/adeeb_overview/guest.mp4" type="video/mp4" />
         </video>
       </div>
     </div>
@@ -32,7 +34,8 @@
       <div class="content">
         <p>Give partners & special customers to sign up, to review their past
           orders, and make bulk orders fast and easy. </p>
-        <video controls preload="metadata" playsinline>
+        <video controls preload="metadata" playsinline
+          poster="../public/adeeb_overview/poster.png">
           <source src="../public/adeeb_overview/partner.mp4" type="video/mp4" />
         </video>
       </div>
