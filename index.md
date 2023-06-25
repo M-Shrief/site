@@ -27,8 +27,6 @@ aside: false
 
 ## Current skills
 
-<!-- ![An image](./public/skills.jpg) -->
-
 - JavaScript & TypeScript
 - NodeJS and Express.JS
 - VueJS + (Pinia and vue-router)
