@@ -18,10 +18,10 @@
       <label for="tab-2">Guest</label>
       <div class="content">
         <p>As a normal Guest/Customer, we start customizing our selected prints'
-          colors and font, and checking some
-          random pieces.</p>
-        <p>After that we enter our information to submit the order, and follow the
-          process on history page.
+          colors and font, and checking some random pieces of literature if we
+          want to add them, after that we enter our information to submit the
+          order. Now, we can follow the process on "history - مراجعة الطلبات"
+          page.
         </p>
         <video controls preload="metadata" playsinline
           poster="../public/adeeb_overview/poster.png">
