@@ -1,4 +1,6 @@
-## Current skills
+# Skills
+
+### Current:
 
 - JavaScript & TypeScript
 - NodeJS and Express.JS
@@ -23,7 +25,7 @@
 - Docker
 - **Go** to maximize my reach in multiple aspects. 
 
-## Looking to be
+## Looking to be:
 
 - Consistent.
 - Doing priorities first.
@@ -32,7 +34,7 @@
 - Putting no cognitive load on users.
 - Developing and Deploying with security always in mind.
 
-## I respect having
+## I respect having:
 
 - An ethical environment
 - Anti toxic positivity/negativity people
