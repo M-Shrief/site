@@ -19,10 +19,18 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: 'Projects',
-        link: '/projects',
-      },
-      { text: 'Learning Journey', link: '/learning' },
+        text: 'Personal Info',
+        collapsed: false,
+        items: [
+          {
+            text: 'Projects',
+            link: '/projects',
+          },
+          { text: 'Skills', link: '/skills' },
+          { text: 'Learning Journey', link: '/learning' },
+        ]
+      }
+      
     ],
     socialLinks: [{ icon: 'github', link: 'https://github.com/m-shrief' }],
     footer: {

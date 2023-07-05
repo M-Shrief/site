@@ -4,3 +4,5 @@ markdown-examples.md
 api-examples.md
 
 .vitepress/dist
+
+goals.md
