@@ -33,43 +33,43 @@ customer to follow up the process. And for special customers, it provides them
 with the ability to make bulk orders fast and easy. And if they’re willing to
 signup, they can review all of their past orders.
 
-<PreviewTabs />
-
 **My Role: Frontend & Backend development**
 
-Built a single page application (SPA) that consumes a REST API, tech stack that
+<PreviewTabs />
 
-was used:
+
+
+**Tech Stack & Characteristics:**
 
 - Mainly **TypeScript**.
 
 - Backend,
   [check repo](https://github.com/M-Shrief/Adeeb_ExpressTS 'github repo')
 
-  - **Nodejs**, particularly using **Express.js**
-  - **MongoDB**
-  - _JWT Authentication_
-  - _Centralized error handling_
-  - ...and more.
+  - Nodejs
+  - Express.js
+  - MongoDB
+  - JWT Authentication
+  - Centralized Error Handling
+  - Data Validation
+  - …and more
 
 - Frontend, [check repo](https://github.com/M-Shrief/Adeeb_Vue_TS 'github repo')
 
-  - **Vuejs**
-  - **Vite**
-  - **Pinia**
-  - **Vue-router**
-  - _Vee-validate_
-  - ...and more.
+  - Vite
+  - Vuejs
+  - Pinia
+  - Vue-router
+  - Vee-validate and Yup.
+  - CSS & SCSS
+  - ...and more
 
-- **Currently working to:**
+
+## Also Managed to:
   - Use **Quasar** framework to make the frontend to render on the server (SSR),
     [check repo](https://github.com/M-Shrief/Adeeb_Quasar_SSR 'github repo').
   - Migrate the backend to use **Postgres** and **TypeORM**,
     [check repo](https://github.com/M-Shrief/Adeeb_ExpressTS_Postgres 'github repo').
-  - Make the project more robust and resilient by tests, better data validation
-    and error handling.
-  - Improve tooling
-  - Improve the authentication process and route guards.
 
 <style>
 video {
